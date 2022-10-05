@@ -1,1 +1,1 @@
-Contains a wiki tutorial on Updating FTC Software.
+Contains a wiki tutorial on updating FTC software.
